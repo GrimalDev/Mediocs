@@ -9,7 +9,7 @@ The project was since left aside, and the client has authorized the code to go t
 **ALL SENSITIVE DATA HAS BEEN REMOVED**
 ---
 
-Organization of files:
+# Organization of files:
 
 ## DATA:
 
