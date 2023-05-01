@@ -1,5 +1,6 @@
 # Mediocs
 ## Frelance projet, abandoned since
+
 ---
 
 This project was originally meant to be a tool for medical researchers to store informations about samples and patients.
@@ -7,6 +8,7 @@ This project was originally meant to be a tool for medical researchers to store 
 The project was since left aside, and the client has authorized the code to go to my GitHub as part of my portfolio. It is now under an *APACHE LICENSING 2.0*.
 
 **ALL SENSITIVE DATA HAS BEEN REMOVED**
+
 ---
 
 # Organization of files:
