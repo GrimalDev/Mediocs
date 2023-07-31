@@ -1,6 +1,7 @@
 # Mediocs
 ## Frelance projet, abandoned since
 
+**[Online Readme page](https://grimaldev.github.io/Mediocs/)**
 ---
 
 This project was originally meant to be a tool for medical researchers to store informations about samples and patients.
